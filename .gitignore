@@ -1,5 +1,6 @@
 ### Python template
 .idea/
+doc/source/index.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
