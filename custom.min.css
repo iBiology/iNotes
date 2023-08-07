@@ -4661,3 +4661,5 @@ ul.notifications {
 #read-summary-table {
     margin-top: 75px;
 }
+
+td { font-size: 12px }
